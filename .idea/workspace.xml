@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f897afa-7252-4dab-95c7-9f03c9781a16" name="Default Changelist" comment="" />
+    <list default="true" id="9f897afa-7252-4dab-95c7-9f03c9781a16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PHP/home_joueur.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/home_joueur.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aJTL8bBYD55MrHPDSpoJeCE8mM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -61,7 +68,7 @@
       <workItem from="1586452650481" duration="3160000" />
       <workItem from="1586464177472" duration="15998000" />
       <workItem from="1586953873280" duration="11661000" />
-      <workItem from="1586979416840" duration="10958000" />
+      <workItem from="1586979416840" duration="11321000" />
     </task>
     <servers />
   </component>

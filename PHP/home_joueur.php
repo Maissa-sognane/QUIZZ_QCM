@@ -325,7 +325,7 @@ JOUER ET TESTER VOTRE NIVEAU DE CULTURE GÉNÉRALE
                                 }
                             }
                             $js_users = json_encode($parsed_json);
-                            file_put_contents('users.json', $js_users);
+                            file_put_contents('user.json', $js_users);
                         }
                         $_SESSION['rep']['score'] = 0;
                         header('Location: home_joueur.php');
